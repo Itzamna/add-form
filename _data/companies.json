@@ -21,11 +21,13 @@
     "web": "http://spitz3.su/"
   },
   "ivanova": {
+    "name": "ivanova",
     "fio": "Иванова Ирина Александровна",
     "city": "Омск",
     "email": "4@spitz.su"
   },
   "sidorova": {
+    "name": "sidorova",
     "fio": "Сидорова Ирина Владимировна",
     "city": "Уфа"
   }
