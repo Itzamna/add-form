@@ -18,7 +18,7 @@
     "fio": "Иванова Ирина Владимировна",
     "city": "Екатеринбург",
     "email": "3@spitz.su",
-    "web": "http://spitz3.su/"
+    "web": "4@spitz.su"
   },
   "ivanova": {
     "name": "ivanova",
@@ -30,5 +30,11 @@
     "name": "sidorova",
     "fio": "Сидорова Ирина Владимировна",
     "city": "Уфа"
+  },
+  "new-members": {
+    "fio": "Петрова",
+    "city": "Москва",
+    "email": "4@spitz.su",
+    "web": "4@spitz.su"
   }
 }
