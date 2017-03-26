@@ -1,1 +1,16 @@
-Hello, world
+---
+title: hello
+---
+
+<ul>
+{% for t in site.data.companies %}
+  {% assign code = t[0] %}
+  {% assign company = t[1] %}
+  <li>
+    <a href="/pages/{{ code }}.html">
+      {{ company.name }} - {{ company.email }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
